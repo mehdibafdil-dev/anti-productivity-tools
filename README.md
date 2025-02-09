@@ -123,8 +123,6 @@ module.exports = {
 
 Access your productivity metrics at `http://localhost:3000/dashboard`
 
-![Dashboard Preview](docs/images/dashboard-preview.png)
-
 ## API Reference
 
 ### Work Context API
